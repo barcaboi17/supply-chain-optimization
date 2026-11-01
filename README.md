@@ -130,4 +130,3 @@ Python · Pandas · NumPy · PuLP (CBC) · Google OR-Tools · Matplotlib · Plot
 **Suraj** · ABES Engineering College, Ghaziabad · [LinkedIn](https://www.linkedin.com/in/suraj17singh/)
 
 
-*AI disclosure: this project was built with the help of an AI assistant (Claude by Anthropic) and reviewed by the author.*
