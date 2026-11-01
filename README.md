@@ -127,6 +127,7 @@ Multi-period inventory planning, real road distances (OSRM / Google Maps API), d
 Python · Pandas · NumPy · PuLP (CBC) · Google OR-Tools · Matplotlib · Plotly · Streamlit · ReportLab
 
 ## 👤 Author
-**[YOUR NAME]** · [College] · [LinkedIn / email]
+**Suraj** · ABES Engineering College, Ghaziabad · [LinkedIn](https://www.linkedin.com/in/suraj17singh/)
+
 
 *AI disclosure: this project was built with the help of an AI assistant (Claude by Anthropic) and reviewed by the author.*
