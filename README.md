@@ -78,7 +78,7 @@ subject to Σ_j x_ij ≤ capacity_i        (each warehouse)
 
 ## 🚀 Quick start
 ```bash
-git clone https://github.com/<your-username>/supply-chain-optimization.git
+git clone https://github.com/<barcaboi17>/supply-chain-optimization.git
 cd supply-chain-optimization
 pip install -r requirements.txt
 
