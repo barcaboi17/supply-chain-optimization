@@ -1,0 +1,7 @@
+warehouse,lat,lon,monthly_capacity
+WH-Delhi,28.61,77.21,5600
+WH-Mumbai,19.08,72.88,5600
+WH-Chennai,13.08,80.27,4300
+WH-Kolkata,22.57,88.36,4300
+WH-Nagpur,21.15,79.09,3400
+WH-Bengaluru,12.97,77.59,4000
