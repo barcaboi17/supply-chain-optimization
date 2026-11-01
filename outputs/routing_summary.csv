@@ -1,0 +1,7 @@
+warehouse,customers,trucks_used,direct_km,optimised_km
+WH-Delhi,5,9,9418,8381
+WH-Mumbai,3,10,7635,7024
+WH-Chennai,1,2,3132,3128
+WH-Kolkata,4,7,9960,8819
+WH-Nagpur,4,7,5944,5934
+WH-Bengaluru,3,8,8291,8280

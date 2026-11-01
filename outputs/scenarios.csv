@@ -1,0 +1,11 @@
+scenario,feasible,cost_inr,units,capacity,cost_change_pct
+Base (peak month),True,123063,22778,27200,0.0
+Demand +5%,True,130967,23916,27200,6.42
+Demand +10%,True,140476,25055,27200,14.15
+Demand +15%,True,153744,26194,27200,24.93
+WH-Delhi at 50% capacity,True,148285,22778,24400,20.5
+WH-Mumbai at 50% capacity,True,146022,22778,24400,18.66
+WH-Chennai at 50% capacity,True,123063,22778,25050,0.0
+WH-Kolkata at 50% capacity,True,136435,22778,25050,10.87
+WH-Nagpur at 50% capacity,True,132283,22778,25500,7.49
+WH-Bengaluru at 50% capacity,True,123527,22778,25200,0.38

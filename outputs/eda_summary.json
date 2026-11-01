@@ -1,0 +1,17 @@
+{
+  "orders": 4363,
+  "columns": 13,
+  "total_units": 431307,
+  "total_cost": 6864641,
+  "delay_rate": 12.9,
+  "delay_standard": 9.4,
+  "delay_express": 32.6,
+  "top_customers": {
+    "Hyderabad": 48834,
+    "Pune": 40806,
+    "Ahmedabad": 38903
+  },
+  "warehouses": 6,
+  "customers": 18,
+  "period": "2024-01-01 to 2025-12-28"
+}

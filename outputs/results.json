@@ -1,0 +1,14 @@
+{
+  "peak_year": 2025,
+  "peak_month": 11,
+  "historical_cost": 163102,
+  "saving_vs_history_pct": 24.55,
+  "peak_demand_units": 22778,
+  "baseline_cost": 159734,
+  "optimised_cost": 123063,
+  "saving_pct": 22.96,
+  "direct_km": 44379,
+  "vrp_km": 41566,
+  "km_saving_pct": 6.34,
+  "truck_cost_saving_inr": 78758
+}
