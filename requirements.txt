@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+plotly
+streamlit>=1.66
+pulp==2.9.0
+ortools
+reportlab
